@@ -1,0 +1,76 @@
+@import "width";
+@import "after";
+
+
+@keyframes khoji {
+    0%{
+        top: 850px;
+        left:0px;
+        width: 150px;
+        height: 150px;
+    }
+    10%{
+        top: 750px;
+        left:50px;
+        width: 150px;
+        height: 150px;
+    }
+    20%{
+        top: 700px;
+        left:100px;
+        width: 150px;
+        height: 150px;
+    }
+    30%{
+        top: 650px;
+        left:150px;
+        width: 150px;
+        height: 150px;
+    }
+    40%{
+        top: 600px;
+        left:180px;
+        width: 150px;
+        height: 150px;
+    }
+    50%{
+        top: 570px;
+        left:200px;
+        width: 150px;
+        height: 150px;
+    }
+    60%{
+        top: 550px;
+        left:250px;
+        width: 150px;
+        height: 150px;
+    }
+    70%{
+        top: 500px;
+        left:300px;
+        width: 150px;
+        height: 150px;
+    }
+    80%{
+        top: 450px;
+        left:350px;
+        width: 150px;
+        height: 150px;
+    }
+    90%{
+        top: 400px;
+        left:400px;
+        width: 150px;
+        height: 150px;
+    }
+    100%{
+        top:350px;
+        left:500px;
+        width: 150px;
+        height: 150px;
+    }
+
+
+
+
+}
